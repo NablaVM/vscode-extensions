@@ -1,0 +1,1 @@
+cp -r nablaasm ~/.vscode/extensions/nablaasm-0.0.1
